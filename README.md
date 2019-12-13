@@ -1,0 +1,2 @@
+# StaticWeb
+A static webpage
